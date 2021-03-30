@@ -1,0 +1,9 @@
+1. Level User login
+	-> Administrator
+		-> All Create/Read/Update/Delete master_ref & Transaksi
+	-> Supervisor
+		-> Create/Read/Update/delete Master_ref data penyakit
+		-> Create/Read/Update/Delete All Transaksi yang ada di posko sesuai login
+	-> Operator 
+		-> Create/Read/Update/delete Transaksi bencana yang ada di posko sesuai login
+		-> Create/Read/Update/delete Transaksi bantuan yang ada di posko sesuai login
